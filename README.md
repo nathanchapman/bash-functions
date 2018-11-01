@@ -4,7 +4,7 @@ A collection of useful Bash/ZSH functions. Just drop the functions from [.bashrc
 
 ## Usage
 
-### 📦 Open npmjs.com
+### 📦 Open a module on npmjs.com
 
 From anywhere:
 
