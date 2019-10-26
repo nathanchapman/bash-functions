@@ -208,3 +208,7 @@ Label: `🎸` or `🎧` or `🎵` or `🎷`
 Action: `Send Text with "vim" Special Chars`
 
 `spotify pause\r`
+
+## Sponsorship 🎗
+
+If you found this project useful, please consider becoming a [sponsor on GitHub](https://github.com/sponsors/nathanchapman).
