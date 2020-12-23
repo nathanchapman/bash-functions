@@ -1,4 +1,4 @@
-# bash-functions
+# 🔮 bash-functions
 
 A collection of useful Bash/ZSH functions. Just drop the functions from [.bashrc](.bashrc) at the end of your `.bashrc` or `.zshrc`. These work great with the [MacBook touch bar](#-iterm2-touch-bar-support) and [iTerm2](https://www.iterm2.com/).
 
